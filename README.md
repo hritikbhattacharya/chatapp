@@ -2,9 +2,12 @@
 <hr>
 
 After cloning the repo :
-1 . do npm install 
-2 . go to the bakend directory nodemon app.js
-3 . go to front-end directory run the npm start
+<ul>
+  
+<li> do<b> npm install </b></li> 
+  <li> go to the bakend directory<b> nodemon app.js</b> </li>
+  <li> go to front-end directory run the<b> npm start</b></li>
+</ul>
 
 
 
